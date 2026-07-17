@@ -1,0 +1,3 @@
+- Projeto React/Vite para converter planilhas em fichas.
+- Use o componente principal para carregar arquivos Excel e renderizar cards.
+- Execute a build e os testes antes de concluir alterações.
