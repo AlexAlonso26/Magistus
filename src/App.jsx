@@ -4,7 +4,7 @@ import { buildCards } from './utils/cardsFromRows.js'
 import { extractRowsFromSheet } from './utils/excelImport.js'
 import './App.css'
 
-const STORAGE_KEY = 'excel-to-cards-state'
+const STORAGE_KEY = 'magistus-state'
 
 function App() {
   const [cards, setCards] = useState([])
